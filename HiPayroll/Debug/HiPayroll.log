@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  HiPayroll.cpp
+c:\users\engha\onedrive\documents\visual studio 2015\projects\hipayroll\hipayroll\hipayroll.cpp(64): warning C4129: 'E': unrecognized character escape sequence
+c:\users\engha\onedrive\documents\visual studio 2015\projects\hipayroll\hipayroll\hipayroll.cpp(206): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\engha\onedrive\documents\visual studio 2015\projects\hipayroll\hipayroll\hipayroll.cpp(362): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engha\onedrive\documents\visual studio 2015\projects\hipayroll\hipayroll\hipayroll.cpp(373): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engha\onedrive\documents\visual studio 2015\projects\hipayroll\hipayroll\hipayroll.cpp(375): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engha\onedrive\documents\visual studio 2015\projects\hipayroll\hipayroll\hipayroll.cpp(377): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engha\onedrive\documents\visual studio 2015\projects\hipayroll\hipayroll\hipayroll.cpp(379): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engha\onedrive\documents\visual studio 2015\projects\hipayroll\hipayroll\hipayroll.cpp(381): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engha\onedrive\documents\visual studio 2015\projects\hipayroll\hipayroll\hipayroll.cpp(415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engha\onedrive\documents\visual studio 2015\projects\hipayroll\hipayroll\hipayroll.cpp(468): warning C4715: 'getMaxMini': not all control paths return a value
+  HiPayroll.vcxproj -> c:\users\engha\onedrive\documents\visual studio 2015\Projects\HiPayroll\Debug\HiPayroll.exe
+  HiPayroll.vcxproj -> c:\users\engha\onedrive\documents\visual studio 2015\Projects\HiPayroll\Debug\HiPayroll.pdb (Full PDB)
